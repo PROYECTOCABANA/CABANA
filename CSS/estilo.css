@@ -1,0 +1,143 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+section#banner{
+
+	width: 100%;
+	background-image: url(IMG/casa.jpeg);
+	background-attachment: contain;
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#header{
+	position: fixed;
+	z-index:4;
+	width: 100%;
+	font-family: 'Acme', sans-serif;
+	font-size: 25px;
+	background-color: transparent;
+	-webkit-transition: background-color .5s;
+}
+
+.nav{
+
+	display: table;
+	margin: auto;
+	font-color:#090935;
+	/*margin-top: 15px;*/
+	height: 50px;
+	-webkit-transition: margin-left .5s;
+}
+
+ul , ol{
+
+	list-style: none;
+}
+
+.nav li a:hover{
+
+	background-color: #8bc63b;
+	font-family: 'Courgette', cursive;
+	opacity: 1;
+}
+
+.nav li:hover > ul{
+
+	display: block;
+}
+
+.nav > li{
+
+	float: left;
+}
+
+.nav li a {
+	color: #F3F3F3;
+	display: block;
+	padding: 0px 20px;
+	text-decoration: none;
+
+}
+
+.nav li ul {
+
+	display: none;
+	position: absolute;
+}
+
+.nav li ul li{
+
+	padding: 5px 15px;
+	position: relative;
+	background-color: transparent;
+}
+
+.nav li ul li a{
+
+ 	padding: 0px 15px;
+ 	font-family: 'Acme', sans-serif;
+ 	background-color: transparent;
+	/*right: -140px;*/
+	top:0px;
+}
+
+img#log{
+
+	float:left;
+	display: block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 250px;
+	-webkit-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
+}
+
+#body{
+	background-image: url(IMG/madera.jpg);
+	background-repeat: no-repeat;
+	background-attachment: contain;
+	background-size: 100%;
+	width: 100%;
+	height: 100%;
+}
+
+/*Sitios turisticos*/
+#banner1{
+    background: url(img/quindio.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 500px; /*altura de la imagen */
+}
+
+#banner2{
+    background: url(img/risaralda.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 500px; /*altura de la imagen */
+}
+
+#banner3{
+    background: url(img/caldas.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 500px; /*altura de la imagen */
+}
+
+/*tonalidad agua oscura a las imagenes*/
+.bg-color{
+    background-color: RGBA(0, 0, 0, 0.45);/*tonalidad oscura a la img */
+    min-height: 500px; /*debe ir acorde a la altura img*/
+}
+
+/*titulo quindio,risaralda,caldas*/
+.logo-name{
+    font-family: 'Satisfy', sans-serif; /*letra*/
+    font-size: 50px; /*tamaño letra titulo */
+    /*margin-top: 30px;*/ /* distancia del top pag*/
+    color: #FFB03B; /*color amarillo */
+}
+
+/*collage quindio*/
+.imagen{
+    border-radius: 15px; /*borde redondo en las imagenes*/
+}
