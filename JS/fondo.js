@@ -18,7 +18,7 @@ $(document).ready(function(){
 				$(".nav li ul li").css({"background-color": "#8BC53E"});
 				flag = true;
 
-				$(".nav li a:hover").css({"background-color": "#07BD3E"});
+				$(".nav li a:hover").css({"background-color": "transparent"});
 				flag = true;
 			}
 		}else{
@@ -31,7 +31,7 @@ $(document).ready(function(){
 				$(".nav li ul li").css({"background-color": "transparent"});
 				flag = false;
 
-				$(".nav li a:hover").css({"background-color": "#0F59A4"});
+				$(".nav li a:hover").css({"background-color": "#07BD3E"});
 				flag = false;
 			}
 		}

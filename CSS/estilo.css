@@ -21,6 +21,7 @@ section#banner{
 	font-size: 25px;
 	background-color: transparent;
 	-webkit-transition: background-color .5s;
+		z-index: 104;
 }
 
 .nav{
@@ -31,6 +32,7 @@ section#banner{
 	/*margin-top: 15px;*/
 	height: 50px;
 	-webkit-transition: margin-left .5s;
+		z-index: 104;
 }
 
 ul , ol{
@@ -95,7 +97,8 @@ img#log{
 	-webkit-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
 }
 
-#body{
+#madera{
+	width: 100%;
 	background-image: url(IMG/madera.jpg);
 	background-repeat: no-repeat;
 	background-attachment: contain;

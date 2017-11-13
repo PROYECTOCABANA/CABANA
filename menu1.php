@@ -1,6 +1,6 @@
 <div id="header">
 		<ul class="nav">
-				<li><a href="#">Inicio</li></a>
+				<li><a href="index.php">Inicio</li></a>
 				<li><a href="#">Nosotros</li></a>
 				<li><a href="#">Habitaciones</li></a>
 		<img  id='log' src='CSS/img/logo-06.png'>
@@ -22,6 +22,4 @@
 		</ul>
 </div>
 <section id='banner'>
-</section>
-<section id='body'>
 </section>
