@@ -33,54 +33,54 @@
 			<section id="photostack-1" class="photostack photostack-start">
 				<div>
 					<figure>
-						<a href="#" class="photostack-img"><img src="img/1.jpg" alt="img01"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/1.jpg" width="240px" height="240px" alt="img01"/></a>
 						<figcaption>
-							<h2 class="photostack-title">Serenity Beach</h2>
+							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="img/2.jpg" alt="img02"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/2.jpg" width="240px" height="240px" alt="img02"/></a>
 						<figcaption>
-							<h2 class="photostack-title">Happy Days</h2>
+							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="img/3.jpg" alt="img03"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/3.jpg" width="240px" height="240px" alt="img03"/></a>
 						<figcaption>
-							<h2 class="photostack-title">Beautywood</h2>
+							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="img/4.jpg" alt="img04"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/4.jpg" width="240px" height="240px" alt="img04"/></a>
 						<figcaption>
-							<h2 class="photostack-title">Heaven of time</h2>
+							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="img/5.jpg" alt="img05"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/5.jpg" width="240px" height="240px" alt="img05"/></a>
 						<figcaption>
-							<h2 class="photostack-title">Speed Racer</h2>
+							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="img/6.jpg" alt="img06"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/6.jpg" width="240px" height="240px" alt="img06"/></a>
 						<figcaption>
-							<h2 class="photostack-title">Forever this</h2>
+							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/7.jpg" alt="img07"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/7.jpg" width="240px" height="240px" alt="img07"/></a>
 						<figcaption>
-							<h2 class="photostack-title">Lovely Green</h2>
+							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/8.jpg" alt="img08"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/8.jpg" width="240px" height="240px" alt="img08"/></a>
 						<figcaption>
-							<h2 class="photostack-title">Wonderful</h2>
+							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
-					<figure data-dummy>
+					<!-- <figure data-dummy>
 						<a href="#" class="photostack-img"><img src="img/9.jpg" alt="img09"/></a>
 						<figcaption>
 							<h2 class="photostack-title">Love Addict</h2>
@@ -127,7 +127,7 @@
 						<figcaption>
 							<h2 class="photostack-title">Lightness</h2>
 						</figcaption>
-					</figure>
+					</figure> -->
 				</div>
 			</section>
 		<center>
