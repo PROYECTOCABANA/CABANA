@@ -1,0 +1,17 @@
+commit d1fc68eb618cfb9aa2f1e240b496066353c5f140
+Author: Karen <karen_vivianasis@hotmail.com>
+Date:   Mon Nov 13 13:15:45 2017 -0500
+
+    Se agragron fotos a la galeria falta colocar titulos
+
+commit 383eca55be54d032ed2af96bea9b9ea3597737bb
+Author: Karen <karen_vivianasis@hotmail.com>
+Date:   Mon Nov 13 12:52:36 2017 -0500
+
+    Galeria ya esta con su respactivo fondo falta arreglar la cobija y poner las fotos
+
+commit 7b8c58e4c3c435b15db2a36cd6833a583b04d692
+Author: Karen <karen_vivianasis@hotmail.com>
+Date:   Sat Nov 11 19:56:50 2017 -0500
+
+    Inicio y menu

@@ -130,9 +130,11 @@
 					</figure> -->
 				</div>
 			</section>
-		<center>
+		</center>
 		</div><!-- /container -->
 	</section>
+	<div id="madera1">
+	</div>
 		<script src="js/classie.js"></script>
 		<script src="js/photostack.js"></script>
 		<script>
