@@ -33,49 +33,49 @@
 			<section id="photostack-1" class="photostack photostack-start">
 				<div>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/1.jpg" width="240px" height="240px" alt="img01"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/1.jpg" width="260px" height="260px" alt="img01"/></a>
 						<figcaption>
 							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/2.jpg" width="240px" height="240px" alt="img02"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/2.jpg" width="260px" height="260px" alt="img02"/></a>
 						<figcaption>
 							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/3.jpg" width="240px" height="240px" alt="img03"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/3.jpg" width="260px" height="260px" alt="img03"/></a>
 						<figcaption>
 							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/4.jpg" width="240px" height="240px" alt="img04"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/4.jpg" width="260px" height="260px" alt="img04"/></a>
 						<figcaption>
 							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/5.jpg" width="240px" height="240px" alt="img05"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/5.jpg" width="260px" height="260px" alt="img05"/></a>
 						<figcaption>
 							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/6.jpg" width="240px" height="240px" alt="img06"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/6.jpg" width="260px" height="260px" alt="img06"/></a>
 						<figcaption>
 							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/7.jpg" width="240px" height="240px" alt="img07"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/7.jpg" width="260px" height="260px" alt="img07"/></a>
 						<figcaption>
 							<h2 class="photostack-title"></h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/8.jpg" width="240px" height="240px" alt="img08"/></a>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/8.jpg" width="260px" height="260px" alt="img08"/></a>
 						<figcaption>
 							<h2 class="photostack-title"></h2>
 						</figcaption>
@@ -156,5 +156,12 @@
 				}
 			} );
 		</script>
+		<footer>
+			<div class="footer">
+				<p>buenasss</p>
+				br
+				buenasss
+			</div>
+		</footer>
 </body>
 </html>

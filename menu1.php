@@ -3,7 +3,7 @@
 				<li><a href="index.php">Inicio</li></a>
 				<li><a href="#">Nosotros</li></a>
 				<li><a href="#">Habitaciones</li></a>
-		<img  id='log' src='CSS/img/logo-06.png'>
+		<img  id='log' src='CSS/IMG/logo-06.png'>
 				<li><a href="#">Servicios
 				<ul>
 					<li><a href="#">Restaurante</a></li>

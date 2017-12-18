@@ -58,10 +58,11 @@
 
 .photostack-img {
 	outline: none;
+	text-align: center;
 	display: block;
-	width: 240px;
-	height: 240px;
-	background: #f9f9f9;
+	width: 260px;
+	height: 260px;
+	background: #13E7C4;
 }
 
 .photostack-back {
