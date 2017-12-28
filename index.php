@@ -159,7 +159,6 @@
 		<footer>
 			<div class="footer">
 				<p>buenasss</p>
-				br
 				buenasss
 			</div>
 		</footer>

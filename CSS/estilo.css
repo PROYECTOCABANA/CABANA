@@ -99,7 +99,7 @@ img#log{
 
 #madera{
 	width: 100%;
-	background-image: url(IMG/madera.jpg);
+	background-image: url(IMG/madera-01.jpg);
 	background-repeat: no-repeat;
 	background-attachment: contain;
 	background-size: 100%;
@@ -108,7 +108,6 @@ img#log{
 
 /*Pie de pagina*/
 .footer{
-	
 	 float: center;
    left: 0;
    bottom: 0;
