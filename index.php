@@ -27,7 +27,6 @@
 	?>
 <!--Galeriaa-->
 <section id='madera'>
-	<br>
 <center>
 <div class="container">
 			<section id="photostack-1" class="photostack photostack-start">
@@ -131,7 +130,10 @@
 				</div>
 			</section>
 		</center>
+     <br>
+		  <br>
 		</div><!-- /container -->
+		<br>
 	</section>
 	<div id="madera1">
 	</div>
@@ -159,7 +161,9 @@
 		<footer>
 			<div class="footer">
 				<p>buenasss</p>
-				buenasss
+			  <p>buenasss</p>
+				<p>buenasss</p>
+				<p>buenasss</p>
 			</div>
 		</footer>
 </body>

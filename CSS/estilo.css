@@ -99,22 +99,25 @@ img#log{
 
 #madera{
 	width: 100%;
+	height: 700px;
 	background-image: url(IMG/madera-01.jpg);
 	background-repeat: no-repeat;
 	background-attachment: contain;
 	background-size: 100%;
-	height: 100%;
+
 }
 
 /*Pie de pagina*/
+
 .footer{
 	 float: center;
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: red;
+   background-color: #8BC53E;
    color: white;
    text-align: center;
+	 z-index: 400;
 }
 /*#madera1{
 	background-image: url(IMG/madera-01.png);
