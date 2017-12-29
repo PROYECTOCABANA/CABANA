@@ -110,14 +110,21 @@ img#log{
 /*Pie de pagina*/
 
 .footer{
-	 float: center;
-   left: 0;
-   bottom: 0;
    width: 100%;
    background-color: #8BC53E;
-   color: white;
-   text-align: center;
 	 z-index: 400;
+
+}
+
+.logi1{
+	text-align: center;
+	float: center;
+	White: 30px;
+	height: 30px;
+}
+
+.footer .logi1 a:hover{
+	color: blue;
 }
 /*#madera1{
 	background-image: url(IMG/madera-01.png);

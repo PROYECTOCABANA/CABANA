@@ -17,6 +17,7 @@
 	<meta name="author" content="Codrops" />
 	<link rel="shortcut icon" href="../favicon.ico">
 	<link rel="stylesheet" type="text/css" href="CSS/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="CSS/fonts/logos.css" />
 	<link rel="stylesheet" type="text/css" href="CSS/demo.css" />
 	<link rel="stylesheet" type="text/css" href="CSS/component.css" />
 	<script src="JS/modernizr.min.js"></script>
@@ -160,10 +161,11 @@
 		</script>
 		<footer>
 			<div class="footer">
-				<p>buenasss</p>
-			  <p>buenasss</p>
-				<p>buenasss</p>
-				<p>buenasss</p>
+				<br>
+				<div class="logi1">
+					<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-facebook2"></span></a>
+				</div>
+				<br>
 			</div>
 		</footer>
 </body>
