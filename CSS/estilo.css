@@ -111,14 +111,25 @@ img#log{
 
 .footer{
    width: 100%;
+	 text-align: center;
+	 float: center;
    background-color: #8BC53E;
 	 z-index: 400;
+	 height: 10%;
 
 }
 
 .logi1{
 	text-align: center;
-	float: center;
+	margin-left: 50%;
+	float: left;
+	White: 30px;
+	height: 30px;
+}
+
+.logi2{
+  margin-left: 10px;
+	float: left;
 	White: 30px;
 	height: 30px;
 }
