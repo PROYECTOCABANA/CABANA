@@ -168,6 +168,9 @@
 				<div class="logi2">
 					<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-instagram"></span></a>
 				</div>
+				<div class="logi3">
+					<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-twitter"></span></a>
+				</div>
 				<br>
 			</div>
 		</footer>
