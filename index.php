@@ -6,6 +6,7 @@
 	<title>INICIO</title>
 	<link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
 	<script src="JS/fondo.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 	<!--Galeria-->
@@ -143,10 +144,11 @@
 				<div class="logi2">
 					<a href="https://www.instagram.com/la_cosechaaa/"><span class="icon-instagram"></span></a>
 				</div>
-				<div class="logi3">
-					<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-twitter"></span></a>
-				</div>
 				<br>
+				<br>
+				<div class="logi3">
+					<p>315 6999060 | casacampestrelacosecha@gmail.com | km 2.4 vía Armenia - pueblo Armenia</p>
+				</div>
 			</div>
 		</footer>
 </body>
