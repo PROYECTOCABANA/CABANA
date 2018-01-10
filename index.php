@@ -33,52 +33,27 @@
 			<section id="photostack-1" class="photostack photostack-start">
 				<div>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/1.jpg" width="260px" height="260px" alt="img01"/></a>
-						<figcaption>
-							<h2 class="photostack-title"></h2>
-						</figcaption>
+						<a href="y" class="photostack-img"><img src="CSS/IMG/campestre/1.jpg" width="330px" height="300px" alt="img01"/></a>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/2.jpg" width="260px" height="260px" alt="img02"/></a>
-						<figcaption>
-							<h2 class="photostack-title"></h2>
-						</figcaption>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/2.jpg" width="330px" height="300px" alt="img02"/></a>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/3.jpg" width="260px" height="260px" alt="img03"/></a>
-						<figcaption>
-							<h2 class="photostack-title"></h2>
-						</figcaption>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/3.jpg" width="330px" height="300px" alt="img03"/></a>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/4.jpg" width="260px" height="260px" alt="img04"/></a>
-						<figcaption>
-							<h2 class="photostack-title"></h2>
-						</figcaption>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/4.jpg" width="330px" height="300px" alt="img04"/></a>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/5.jpg" width="260px" height="260px" alt="img05"/></a>
-						<figcaption>
-							<h2 class="photostack-title"></h2>
-						</figcaption>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/5.jpg" width="330px" height="300px" alt="img05"/></a>
 					</figure>
 					<figure>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/6.jpg" width="260px" height="260px" alt="img06"/></a>
-						<figcaption>
-							<h2 class="photostack-title"></h2>
-						</figcaption>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/6.jpg" width="330px" height="300px" alt="img06"/></a>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/7.jpg" width="260px" height="260px" alt="img07"/></a>
-						<figcaption>
-							<h2 class="photostack-title"></h2>
-						</figcaption>
-					</figure>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/7.jpg" width="330px" height="300px" alt="img07"/></a>
 					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/8.jpg" width="260px" height="260px" alt="img08"/></a>
-						<figcaption>
-							<h2 class="photostack-title"></h2>
-						</figcaption>
+						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/8.jpg" width="330px" height="300px" alt="img08"/></a>
 					</figure>
 					<!-- <figure data-dummy>
 						<a href="#" class="photostack-img"><img src="img/9.jpg" alt="img09"/></a>
