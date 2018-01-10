@@ -141,7 +141,7 @@
 					<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-facebook2"></span></a>
 				</div>
 				<div class="logi2">
-					<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-instagram"></span></a>
+					<a href="https://www.instagram.com/la_cosechaaa/"><span class="icon-instagram"></span></a>
 				</div>
 				<div class="logi3">
 					<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-twitter"></span></a>
