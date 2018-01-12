@@ -1,4 +1,7 @@
 <div id="header">
+		<div class="menu-bar">
+			<a href="#" class="boton"><span class="icon-menu"></span>Menu</a>
+		</div>
 		<ul class="nav">
 				<li><a href="index.php">Inicio</li></a>
 				<li><a href="#">Nosotros</li></a>

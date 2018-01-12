@@ -7,18 +7,19 @@
 	<link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale = 1.0, minimum-scale=1.0">
 	<script src="JS/fondo.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 	<!--Galeria-->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Scattered Polaroids Gallery</title>
 	<meta name="description" content="Scattered Polaroids Gallery: A flat-style take on a Polaroid gallery" />
 	<meta name="keywords" content="scattered polaroids, image gallery, javascript, random rotation, 3d, backface, flat design" />
 	<meta name="author" content="Codrops" />
 	<link rel="shortcut icon" href="../favicon.ico">
 	<link rel="stylesheet" type="text/css" href="CSS/normalize.css" />
 	<link rel="stylesheet" type="text/css" href="CSS/fonts/logos.css" />
+	<link rel="stylesheet" type="text/css" href="CSS/menub/menu.css" />
 	<link rel="stylesheet" type="text/css" href="CSS/demo.css" />
 	<link rel="stylesheet" type="text/css" href="CSS/component.css" />
 	<script src="JS/modernizr.min.js"></script>
@@ -56,54 +57,6 @@
 					<figure data-dummy>
 						<a href="#" class="photostack-img"><img src="CSS/IMG/campestre/8.jpg" width="330px" height="300px" alt="img08"/></a>
 					</figure>
-					<!-- <figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/9.jpg" alt="img09"/></a>
-						<figcaption>
-							<h2 class="photostack-title">Love Addict</h2>
-						</figcaption>
-					</figure>
-					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/10.jpg" alt="img10"/></a>
-						<figcaption>
-							<h2 class="photostack-title">Friendship</h2>
-						</figcaption>
-					</figure>
-					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/11.jpg" alt="img11"/></a>
-						<figcaption>
-							<h2 class="photostack-title">White Nights</h2>
-						</figcaption>
-					</figure>
-					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/12.jpg" alt="img12"/></a>
-						<figcaption>
-							<h2 class="photostack-title">Serendipity</h2>
-						</figcaption>
-					</figure>
-					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/13.jpg" alt="img13"/></a>
-						<figcaption>
-							<h2 class="photostack-title">Pure Soul</h2>
-						</figcaption>
-					</figure>
-					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/14.jpg" alt="img14"/></a>
-						<figcaption>
-							<h2 class="photostack-title">Winds of Peace</h2>
-						</figcaption>
-					</figure>
-					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/15.jpg" alt="img15"/></a>
-						<figcaption>
-							<h2 class="photostack-title">Shades of blue</h2>
-						</figcaption>
-					</figure>
-					<figure data-dummy>
-						<a href="#" class="photostack-img"><img src="img/16.jpg" alt="img16"/></a>
-						<figcaption>
-							<h2 class="photostack-title">Lightness</h2>
-						</figcaption>
-					</figure> -->
 				</div>
 			</section>
 		</center>
@@ -151,5 +104,7 @@
 				</div>
 			</div>
 		</footer>
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+		<script src="JS/menu.js"></script>
 </body>
 </html>
