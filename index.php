@@ -17,11 +17,10 @@
 	<meta name="keywords" content="scattered polaroids, image gallery, javascript, random rotation, 3d, backface, flat design" />
 	<meta name="author" content="Codrops" />
 	<link rel="shortcut icon" href="../favicon.ico">
-	<link rel="stylesheet" type="text/css" href="CSS/normalize.css" />
-	<link rel="stylesheet" type="text/css" href="CSS/fonts/logos.css" />
-	<link rel="stylesheet" type="text/css" href="CSS/menub/menu.css" />
-	<link rel="stylesheet" type="text/css" href="CSS/demo.css" />
-	<link rel="stylesheet" type="text/css" href="CSS/component.css" />
+	<link rel="stylesheet" type="text/css" href="CSS/normalize.css">
+	<link rel="stylesheet" type="text/css" href="CSS/fonts/logos.css">
+	<link rel="stylesheet" type="text/css" href="CSS/demo.css">
+	<link rel="stylesheet" type="text/css" href="CSS/component.css">
 	<script src="JS/modernizr.min.js"></script>
 </head>
 <body>

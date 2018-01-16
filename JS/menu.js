@@ -19,4 +19,10 @@ function main(){
     });
   }
   });
+
+  //Mostramos el submenu
+  $('.submenu').click(function(){
+    $(this).children('.hijos').slideToggle();
+  });
+
 };
