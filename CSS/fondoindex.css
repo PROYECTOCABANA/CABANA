@@ -1,0 +1,30 @@
+section#banner{
+
+	width: 100%;
+	background-image: url(IMG/casa.jpeg);
+	background-attachment: contain;
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+img#log{
+
+	float:left;
+	display: block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 250px;
+	-webkit-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
+}
+
+@media screen and (max-width:800px){
+
+	section#banner{
+	  display: none;
+	}
+
+	img#log{
+		display: none;
+	}
+}

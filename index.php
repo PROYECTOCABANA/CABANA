@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="CSS/estilo.css">
+	<link rel="stylesheet" href="CSS/fondoindex.css">
 	<title>INICIO</title>
 	<link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
