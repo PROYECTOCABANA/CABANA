@@ -23,7 +23,7 @@ h2{
     text-align: center;
 }
 
-h2 span {
+h2 .titulo {
   border: 4px dashed green;/*borde a trozos*/
   padding: 10px;
 
@@ -84,7 +84,6 @@ input, textarea {
     box-sizing: border-box;
     border: none;
 }
-
 
 /*RESPONSIVE FORM*/
 

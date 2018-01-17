@@ -93,35 +93,35 @@ ul , ol{
 .footer{
    width: 100%;
 	 text-align: center;
+	 text-decoration: none;
 	 float: center;
    background-color: #8BC53E;
 	 z-index: 400;
-	 height: 20%;
-
+	 height:10%;
 }
 
 .logi1{
 	text-align: center;
 	margin-left: 50%;
 	float: left;
-	White: 30px;
-	height: 30px;
 }
 
 .logi2{
   margin-left: 10px;
 	float: left;
-	White: 30px;
-	height: 30px;
 }
 
 .logi3{
 	color: white;
-  margin-left: 10%;
 	float: left;
 	font-family: 'Lora', serif;
 	font-size: 18px;
-	width: 80%;
+	background-color: #8BC53E;
+	width: 100%;
+}
+
+.footer span{
+	text-decoration:none;
 }
 
 .boton {

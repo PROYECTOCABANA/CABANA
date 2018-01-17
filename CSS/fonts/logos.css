@@ -28,11 +28,13 @@
   content: "\ea91";
   color: white;
   font-size: 30px;
+  text-decoration: none;
 }
 .icon-instagram:before {
   content: "\ea92";
   color: white;
   font-size: 30px;
+  text-decoration: none;
 }
 .icon-whatsapp:before {
   content: "\ea93";

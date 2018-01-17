@@ -102,6 +102,7 @@
 				<div class="logi3">
 					<p>315 6999060 | casacampestrelacosecha@gmail.com | km 2.4 vía Armenia - pueblo Armenia</p>
 				</div>
+				<br>
 			</div>
 		</footer>
 		<script src="http://code.jquery.com/jquery-latest.js"></script>

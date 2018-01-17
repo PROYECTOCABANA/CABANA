@@ -10,7 +10,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="../CSS/fonts/logos.css">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale = 1.0, minimum-scale=1.0">
-	<script src="../JS/contacto.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 	<!-- icono pestaña-->
 	<link rel="shortcut icon" href="contact.png">
@@ -35,7 +34,7 @@
 
 <div class="section" >
 	<br>
-	<h2><span>Información de Contácto</span></h2>
+	<h2><span class="titulo">Información de Contácto</span></h2>
 	<br>
 	<br>
 	<table align="center" cellpadding="10">
@@ -63,7 +62,7 @@
 	</table>
 	<br>
 	<br>
-	<h2><span>Envianos un Mensaje</span></h2>
+	<h2><span class="titulo">Envianos un Mensaje</span></h2>
 	<br>
 	<br>
 		<form method="POST" action="enviar.php">
@@ -88,9 +87,11 @@
 		<br>
 		<div class="logi3">
 			<p>315 6999060 | casacampestrelacosecha@gmail.com | km 2.4 vía Armenia - pueblo Armenia</p>
+			<br>
 		</div>
 	</div>
 </footer>
+<!--menu responsive-->
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <script src="../JS/menu.js"></script>
 </body>
