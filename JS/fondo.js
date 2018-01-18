@@ -23,7 +23,7 @@ $(document).ready(function(){
 			}
 		}else{
 			if(flag){
-				$("#log").css({"margin-top": "250px", "width": "421px","height":"150px"});
+				$("#log").css({"margin-top": "250px", "width": "200px","height":"150px"});
 
 				$("#header").css({"background-color": "transparent"});
 				flag = false;

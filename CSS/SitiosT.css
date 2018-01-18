@@ -1,0 +1,42 @@
+*{ /* el menu se situa desde el pixel 0 0*/
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(../IMG/madera-01.jpg);
+}
+
+/* IMAGENES de sitios turisticos*/
+
+#banner1{
+    background: url(../IMG/quindio.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 500px; /*altura de la imagen */
+}
+
+#banner2{
+    background: url(../IMG/risaralda.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 500px; /*altura de la imagen */
+}
+
+#banner3{
+    background: url(../IMG/caldas.jpg) no-repeat center top;
+    background-size: cover;
+    min-height: 500px; /*altura de la imagen */
+}
+
+/*tonalidad agua oscura a las imagenes*/
+.bg-color{
+    background-color: RGBA(0, 0, 0, 0.45);/*tonalidad oscura a la img */
+    min-height: 500px; /*debe ir acorde a la altura img*/
+}
+
+/*titulo quindio,risaralda,caldas*/
+.logo-name{
+    font-family: 'Satisfy', sans-serif; /*letra*/
+    font-size: 50px; /*tamaño letra titulo */
+    margin-top: 30px; /* distancia del top pag*/
+    color: #FFB03B; /*color amarillo */
+}

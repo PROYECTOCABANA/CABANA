@@ -16,12 +16,12 @@
 				</li></a>
 				<li class="submenu"><a href="#">Sitios tur&iacute;sticos
 				<ul class="hijos">
-					<li><a data-scroll title="quindi" href="../SitiosT/SitiosT.php/#quindio"><span>Quindio</span></a></li>
-					<li><a data-scroll title="risa" href="../SitiosT/SitiosT.php/#risaralda"><span>Risaralda</span></a></li>
-					<li><a data-scroll title="cald" href="../SitiosT/SitiosT.php/#caldas"><span>Caldas</span></a></li>
+					<li><a data-scroll title="quindi" href="#quindio"><span>Quindio</span></a></li>
+					<li><a data-scroll title="risa" href="#risaralda"><span>Risaralda</span></a></li>
+					<li><a data-scroll title="cald" href="#caldas"><span>Caldas</span></a></li>
 				</ul>
 				</li></a>
-				<li><a href="contacto.php">Cont&aacute;ctenos</li></a>
+				<li><a href="../Contacto/contacto.php">Cont&aacute;ctenos</li></a>
 		</ul>
 </div>
 <br>

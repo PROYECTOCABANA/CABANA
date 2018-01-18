@@ -26,7 +26,7 @@
 	<br>
 <!--localización exacta del hotel, mediante google maps -->
 <div id="map" align="center">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3977.4746474651356!2d-75.77344968532978!3d4.508118296724374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e385f2f8c8d84fd%3A0xbfb1b2b903a59ab7!2sArmenia+-+Pueblo+Tapado%2C+Quind%C3%ADo!5e0!3m2!1ses-419!2sco!4v1502393861974" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<iframe src="https://wego.here.com/directions/mix//Casa-campestre-la-cosecha,-km-2.4-v%C3%ADa-Armenia-pueblo-tapao,-036-Armenia:e-eyJuYW1lIjoiQ2FzYSBjYW1wZXN0cmUgbGEgY29zZWNoYSIsImFkZHJlc3MiOiJrbSAyLjQgdlx1MDBlZGEgQXJtZW5pYSAtIHB1ZWJsbyB0YXBhbywgQXJtZW5pYSIsImxhdGl0dWRlIjo0LjUxNDU3OTksImxvbmdpdHVkZSI6LTc1Ljc4NDcsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6OTEyMjU3NDM4ODc3MTAxfQ==?map=4.51458,-75.7847,15,normal&fb_locale=es_ES" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 <br>
 

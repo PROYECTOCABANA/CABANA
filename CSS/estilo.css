@@ -50,7 +50,7 @@ ul , ol{
 .nav li a {
 	color: #F3F3F3;
 	display: block;
-	padding: 0px 20px;
+	padding: 0px 10px;
 	text-decoration: none;
 
 }
@@ -63,7 +63,7 @@ ul , ol{
 
 .nav li ul li{
 
-	padding: 5px 15px;
+	padding: 5px 10px;
 	position: relative;
 	background-color: transparent;
 }
@@ -97,12 +97,12 @@ ul , ol{
 	 float: center;
    background-color: #8BC53E;
 	 z-index: 400;
-	 height:10%;
+	 height:15%;
 }
 
 .logi1{
 	text-align: center;
-	margin-left: 50%;
+	margin-left:45%;
 	float: left;
 }
 
@@ -210,9 +210,8 @@ ul , ol{
 		font-size: 30px;
 		color: white;
 	}
-
-
 }
+
 
 /*Sitios turisticos*/
 #banner1{

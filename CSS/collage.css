@@ -1,0 +1,72 @@
+.container {
+  position: relative;
+  width: 20%; /*ancho del señalador verde*/
+  margin: 10px; /**distancia de c/img*/
+  display: table; /*mantiene el collage como tablas*/
+  float: left; /*mantiene el collage 3x3*/
+  border-radius: 15px;
+  margin-left: auto;
+}
+
+.imagen {/*estilo de las imagenes*/
+  display: block;
+  width: 400px;
+  height: 230px;
+  border-radius: 15px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #06902D;
+  border-radius: 15px;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.text a{
+  color: white;
+  text-decoration: none;
+  align-content: center;
+}
+
+/*clear floats after the container*/
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+  margin: auto;
+}
+
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+    .container {
+        width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .container {
+        width: 100%;
+    }
+}
