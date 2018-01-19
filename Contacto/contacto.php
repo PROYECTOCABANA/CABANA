@@ -6,7 +6,7 @@
 	<!--imporatnte-->
 	<link rel="stylesheet" href="../CSS/otromenu.css">
 	<link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="../JS/jquery-3.2.1.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="../CSS/fonts/logos.css">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale = 1.0, minimum-scale=1.0">
@@ -16,7 +16,12 @@
 	<link rel="stylesheet" type="text/css" href="../CSS/contacto/style.css">
 	<!-- CSS de contacto -->
 	<link rel="stylesheet" type="text/css" href="../CSS/contacto.css">
-
+	<!-- links nuevos -->
+	<!--Import Google Icon Font-->
+  	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!--Import materialize.css-->
+    
+  <!--Let browser know website is optimized for mobile-->
 </head>
 <body>
 	<?PHP
@@ -32,7 +37,7 @@
 
 <!--informacion -->
 
-<div class="section" >
+<div class="cuadro">
 	<br>
 	<h2><span class="titulo">Información de Contácto</span></h2>
 	<br>
@@ -40,7 +45,7 @@
 	<table align="center" cellpadding="10">
 		<tr>
 			<td><span class="icon-user"></span> Rubiela Romero Barrero<br></td>
-			<td><span class="icon-user"></span> Julio C. Santos Duarte <br>  </td>
+			<td><span class="icon-user"></span> Julio C. Santos Duarte <br> </td>
 		</tr>
 
 		<tr>
@@ -70,28 +75,13 @@
 			<input name="telefono" type="number" placeholder="Teléfono" required="">
 			<input name="correo" type="e-mail" placeholder="Correo Electrónico" required="">
 			<textarea name="mensaje" placeholder="Escribe tu mensaje" required=""></textarea>
-			<input type="submit" value="ENVIAR" class="submit">
+			<input type="submit" value="ENVIAR" class="enviar">
 		</form>
 </div>
 <br>
-<footer>
-	<div class="footer">
-		<br>
-		<div class="logi1">
-			<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-facebook2"></span></a>
-		</div>
-		<div class="logi2">
-			<a href="https://www.instagram.com/la_cosechaaa/"><span class="icon-instagram"></span></a>
-		</div>
-		<br>
-		<br>
-		<div class="logi3">
-			<p>315 6999060 | casacampestrelacosecha@gmail.com | km 2.4 vía Armenia - pueblo Armenia</p>
-			<br>
-		</div>
-	</div>
-</footer>
-<!--menu responsive-->
+<?PHP
+	include("../pie.php")//incluir el pie de pagina
+?>
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <script src="../JS/menu.js"></script>
 </body>

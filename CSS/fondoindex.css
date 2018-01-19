@@ -1,7 +1,7 @@
 section#banner{
 
 	width: 100%;
-	background-image: url(IMG/casa.jpeg);
+	background-image: url(IMG/foto.jpg);
 	background-attachment: contain;
 	background-size: 100% 100%;
 	background-position: center;
@@ -29,7 +29,7 @@ img#log{
 	}
 }
 @media screen and (max-width:1024px){
-	
+
 	img#log{
 		 width: 200px;
 		 height: 150px;

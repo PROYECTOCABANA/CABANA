@@ -20,10 +20,16 @@ $(document).ready(function(){
 
 				$(".nav li a:hover").css({"background-color": "transparent"});
 				flag = true;
+
+				$(".nav li a:hover").css({"color": "white"});
+				flag = true;
+
+				$(".nav li a").css({"color": "white"});
+				flag = true;
 			}
 		}else{
 			if(flag){
-				$("#log").css({"margin-top": "250px", "width": "200px","height":"150px"});
+				$("#log").css({"margin-top": "250px", "width": "321px","height":"114px"});
 
 				$("#header").css({"background-color": "transparent"});
 				flag = false;
@@ -33,6 +39,12 @@ $(document).ready(function(){
 
 				$(".nav li a:hover").css({"background-color": "#07BD3E"});
 				flag = false;
+
+				$(".nav li a").css({"color": "#8A0808"});
+				flag = false;
+
+				$(".nav li a:hover").css({"color": "white"});
+				flag=false;
 			}
 		}
 });

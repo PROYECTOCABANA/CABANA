@@ -4,25 +4,24 @@
 }
 
 body{
-    background-image: url(../IMG/madera-01.jpg);
+    background-image: url(IMG/madera-01.jpg);
 }
 
 /* IMAGENES de sitios turisticos*/
-
 #banner1{
-    background: url(../IMG/quindio.jpg) no-repeat center top;
+    background: url(IMG/quindio.jpg) no-repeat center top;
     background-size: cover;
     min-height: 500px; /*altura de la imagen */
 }
 
 #banner2{
-    background: url(../IMG/risaralda.jpg) no-repeat center top;
+    background: url(IMG/risaralda.jpg) no-repeat center top;
     background-size: cover;
     min-height: 500px; /*altura de la imagen */
 }
 
 #banner3{
-    background: url(../IMG/caldas.jpg) no-repeat center top;
+    background: url(IMG/caldas.jpg) no-repeat center top;
     background-size: cover;
     min-height: 500px; /*altura de la imagen */
 }

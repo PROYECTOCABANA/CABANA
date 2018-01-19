@@ -20,13 +20,14 @@ body{
 
 /*informacion contact*/
 h2{
+		font-size: 20px;
     text-align: center;
 }
 
 h2 .titulo {
   border: 4px dashed green;/*borde a trozos*/
   padding: 10px;
-
+	font-size:20px;
 }
 
 /*ESTILO AL ENVIAR UN MENSAJE*/
@@ -40,7 +41,7 @@ form{
     border-radius: 20px;
 }
 
-.section{
+.cuadro{
   background-color: #fff;
   padding: 15px;
   width: 600px;
@@ -49,7 +50,7 @@ form{
   margin: auto;
 }
 
-.submit {
+.enviar{
     background-color: green;
     padding: 12px 45px;
     border-radius: 5px;
@@ -60,11 +61,12 @@ form{
     margin: 0;
     font-weight: bold;
 }
-.submit:hover {
+.enviar:hover {
     background-color: #15C823;
 }
 
 textarea {
+		background-color: white;
     height: 100px;
     min-height: 100px;
     max-width: 100%;

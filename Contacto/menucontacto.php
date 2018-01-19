@@ -14,7 +14,7 @@
 					<li><a href="#">Areas comunes</a></li>
 				</ul>
 				</li></a>
-				<li class="submenu"><a href="#">Sitios tur&iacute;sticos
+				<li class="submenu"><a href="../SitiosT/SitiosT.php">Sitios tur&iacute;sticos
 				<ul class="hijos">
 					<li><a data-scroll title="quindi" href="../SitiosT/SitiosT.php/#quindio"><span>Quindio</span></a></li>
 					<li><a data-scroll title="risa" href="../SitiosT/SitiosT.php/#risaralda"><span>Risaralda</span></a></li>

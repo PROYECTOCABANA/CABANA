@@ -95,14 +95,14 @@ ul , ol{
 	 text-align: center;
 	 text-decoration: none;
 	 float: center;
-   background-color: #8BC53E;
+   background-color:#8BC53E;
 	 z-index: 400;
-	 height: 20%;
+	 height:15%;
 }
 
 .logi1{
 	text-align: center;
-	margin-left: 45%;
+	margin-left:45%;
 	float: left;
 }
 
@@ -116,13 +116,14 @@ ul , ol{
 	float: left;
 	font-family: 'Lora', serif;
 	font-size: 18px;
-	background-color: #8BC53E;
+	background-color:#8BC53E;
 	width: 100%;
 }
 
 .footer span{
 	text-decoration:none;
 }
+
 
 .boton {
 	display: none;

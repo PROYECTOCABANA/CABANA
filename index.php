@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="CSS/fondoindex.css">
 	<title>INICIO</title>
 	<link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="JS/jquery-3.2.1.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale = 1.0, minimum-scale=1.0">
 	<script src="JS/fondo.js"></script>
@@ -88,23 +88,9 @@
 				}
 			} );
 		</script>
-		<footer>
-			<div class="footer">
-				<br>
-				<div class="logi1">
-					<a href="https://www.facebook.com/casacampestrelacosecha/"><span class="icon-facebook2"></span></a>
-				</div>
-				<div class="logi2">
-					<a href="https://www.instagram.com/la_cosechaaa/"><span class="icon-instagram"></span></a>
-				</div>
-				<br>
-				<br>
-				<div class="logi3">
-					<p>315 6999060 | casacampestrelacosecha@gmail.com | km 2.4 vía Armenia - pueblo Armenia</p>
-				</div>
-				<br>
-			</div>
-		</footer>
+		<?PHP
+			include("pie.php")//incluir el pie de pagina
+		?>
 		<script src="http://code.jquery.com/jquery-latest.js"></script>
 		<script src="JS/menu.js"></script>
 </body>

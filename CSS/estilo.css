@@ -18,7 +18,7 @@
 
 	display: table;
 	margin: auto;
-	font-color:#090935;
+	color: #8A0808;
 	/*margin-top: 15px;*/
 	height: 50px;
 	-webkit-transition: margin-left .5s;
@@ -33,8 +33,9 @@ ul , ol{
 .nav li a:hover{
 
 	background-color: #8bc63b;
-	font-family: 'Courgette', cursive;
+	color: white;
 	opacity: 1;
+	-webkit-transition: color .3s;
 }
 
 .nav li:hover > ul{
@@ -48,7 +49,7 @@ ul , ol{
 }
 
 .nav li a {
-	color: #F3F3F3;
+	color: #8A0808;
 	display: block;
 	padding: 0px 10px;
 	text-decoration: none;
@@ -89,7 +90,6 @@ ul , ol{
 }
 
 /*Pie de pagina*/
-
 .footer{
    width: 100%;
 	 text-align: center;
@@ -116,7 +116,7 @@ ul , ol{
 	float: left;
 	font-family: 'Lora', serif;
 	font-size: 18px;
-	background-color: #8BC53E;
+	background-color:#8BC53E;
 	width: 100%;
 }
 
