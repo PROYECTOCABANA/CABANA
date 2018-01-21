@@ -4,12 +4,14 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="CSS/estilo.css">
 	<link rel="stylesheet" href="CSS/fondoindex.css">
+	<link rel="stylesheet" type="text/css" href="CSS/carga.css">
 	<title>INICIO</title>
 	<link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
 	<script src="JS/jquery-3.2.1.min.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale = 1.0, minimum-scale=1.0">
 	<script src="JS/fondo.js"></script>
+	<script src="JS/carga.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 	<!--Galeria-->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,6 +27,10 @@
 	<script src="JS/modernizr.min.js"></script>
 </head>
 <body>
+	<div id="contenedor_carga">
+		<div id="carga">
+		</div>
+	</div>
 	<?PHP
 		include("menu1.php")//incluir el menu
 	?>
@@ -67,8 +73,8 @@
 	</section>
 	<div id="madera1">
 	</div>
-		<script src="js/classie.js"></script>
-		<script src="js/photostack.js"></script>
+		<script src="JS/classie.js"></script>
+		<script src="JS/photostack.js"></script>
 		<script>
 			// [].slice.call( document.querySelectorAll( '.photostack' ) ).forEach( function( el ) { new Photostack( el ); } );
 
