@@ -31,14 +31,10 @@ ul , ol{
 }
 
 .nav li a:hover{
-
-	background-color: #8bc63b;
+	background-color: #AEE861;
+	color: White;
+	-webkit-transition: color.3s;
 	opacity: 1;
-}
-
-.nav li a:hover{
-color: white;
--webkit-transition: color .3s;
 }
 
 .nav li:hover > ul{

@@ -9,8 +9,8 @@
 		<img  id='log' src='CSS/IMG/logo-06.png'>
 				<li class="submenu"><a href="#">Servicios
 				<ul class="hijos">
-					<li><a href="#">Restaurante</a></li>
-					<li><a href="#">Piscina</a></li>
+					<li><a href="servicios/servicios.php">Comedor</a></li>
+					<li><a href="#">Piscina-Jacuzzi</a></li>
 					<li><a href="#">Areas comunes</a></li>
 				</ul>
 				</li></a>

@@ -7,21 +7,21 @@
 				<li><a href="#">Nosotros</li></a>
 				<li><a href="#">Habitaciones</li></a>
 		<img  id='logi' src='../CSS/IMG/logo-06.png'>
-				<li class="submenu"><a href="#">Servicios
+				<li class="submenu"><p class="fuentes" color="White">Servicios
 				<ul class="hijos">
 					<li><a href="#">Comedor</a></li>
 					<li><a href="#">Piscina-Jacuzzi</a></li>
 					<li><a href="#">Areas comunes</a></li>
 				</ul>
-				</li></a>
-				<li class="submenu"><a href="#">Sitios tur&iacute;sticos
+				</li>
+				<li class="submenu"><p class="fuentes" color="White">Sitios tur&iacute;sticos</p>
 				<ul class="hijos">
 					<li><a data-scroll title="quindi" href="../SitiosT/SitiosT.php/#quindio"><span>Quindio</span></a></li>
 					<li><a data-scroll title="risa" href="../SitiosT/SitiosT.php/#risaralda"><span>Risaralda</span></a></li>
 					<li><a data-scroll title="cald" href="../SitiosT/SitiosT.php/#caldas"><span>Caldas</span></a></li>
 				</ul>
-				</li></a>
-				<li><a href="contacto.php">Cont&aacute;ctenos</li></a>
+				</li>
+				<li><a href="../Contacto/contacto.php">Cont&aacute;ctenos</li></a>
 		</ul>
 </div>
 <br>

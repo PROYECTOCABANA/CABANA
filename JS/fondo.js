@@ -20,6 +20,9 @@ $(document).ready(function(){
 
 				$(".nav li a").css({"color": "white"});
 				flag = true;
+
+				$(".nav li a:hover").css({"color":"#f6ffea"});
+				flag = true;
 			}
 		}else{
 			if(flag){
@@ -32,6 +35,9 @@ $(document).ready(function(){
 				flag = false;
 
 				$(".nav li a").css({"color": "#8A0808"});
+				flag = false;
+
+				$(".nav li a:hover").css({"color": "White"});
 				flag = false;
 			}
 		}

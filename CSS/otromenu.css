@@ -42,10 +42,9 @@ ul , ol{
 }
 
 .nav li a:hover{
-
-	background-color: #8bc63b;
-	font-family: 'Courgette', cursive;
+	background-color: #AEE861;
 	opacity: 1;
+	-webkit-transition: background-color.3s
 }
 
 .nav li:hover > ul{
@@ -124,6 +123,11 @@ ul , ol{
 	text-decoration:none;
 }
 
+.fuentes{
+	color: white;
+	margin-right: 20px;
+  margin-left: 20px;
+}
 
 .boton {
 	display: none;
@@ -205,5 +209,10 @@ ul , ol{
 		float: right;
 		font-size: 30px;
 		color: white;
+	}
+
+	.fuentes{
+		color: white;
+		margin-left: 20px;
 	}
 }

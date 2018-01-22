@@ -12,6 +12,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale = 1.0, minimum-scale=1.0">
 	<script src="JS/fondo.js"></script>
 	<script src="JS/carga.js"></script>
+	<link rel="shortcut icon" href="CSS/IMG/colibri.png">
 	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 	<!--Galeria-->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
