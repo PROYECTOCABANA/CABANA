@@ -18,7 +18,7 @@ img#log{
 	-webkit-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:1024px){
 
 	section#banner{
 	  display: none;
@@ -26,12 +26,5 @@ img#log{
 
 	img#log{
 		display: none;
-	}
-}
-@media screen and (max-width:1024px){
-
-	img#log{
-		 width: 200px;
-		 height: 150px;
 	}
 }

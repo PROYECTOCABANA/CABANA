@@ -28,14 +28,14 @@ body{
 
 /*tonalidad agua oscura a las imagenes*/
 .bg-color{
-    background-color: RGBA(0, 0, 0, 0.45);/*tonalidad oscura a la img */
+    /*background-color: RGBA(0, 0, 0, 0.45);tonalidad oscura a la img */
     min-height: 500px; /*debe ir acorde a la altura img*/
 }
 
 /*titulo quindio,risaralda,caldas*/
 .logo-name{
-    font-family: 'Satisfy', sans-serif; /*letra*/
+    font-family: 'Acme', sans-serif;
     font-size: 50px; /*tamaño letra titulo */
     margin-top: 30px; /* distancia del top pag*/
-    color: #FFB03B; /*color amarillo */
+    color: #8A0808; /*color amarillo */
 }

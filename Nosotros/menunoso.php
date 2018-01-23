@@ -5,11 +5,11 @@
 		<ul class="nav">
 				<img  id='logi' src='../CSS/IMG/logo-06.png'>
 				<li><a href="../index.php">Inicio</li></a>
-				<li><a href="../Nosotros/nosotros.php">Nosotros</li></a>
+				<li><a href="nosotros.php">Nosotros</li></a>
 				<li><a href="../Habitaciones/Habitaciones.php">Habitaciones</li></a>
-				<li class="submenu"><p class="fuentes" color="White">Servicios
+				<li class="submenu"><p class="fuentes" color="White">Servicios</p>
 				<ul class="hijos">
-					<li><a href="#">Comedor</a></li>
+					<li><a href="../servicios/servicios.php">Comedor</a></li>
 					<li><a href="#">Piscina-Jacuzzi</a></li>
 					<li><a href="#">Areas comunes</a></li>
 				</ul>

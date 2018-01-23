@@ -8,7 +8,6 @@
       <a href="https://www.instagram.com/la_cosechaaa/"><span class="icon-instagram"></span></a>
     </div>
     <br>
-    <br>
     <div class="logi3">
       <p>315 6999060 | casacampestrelacosecha@gmail.com | km 2.4 vía Armenia - pueblo Armenia</p>
     </div>

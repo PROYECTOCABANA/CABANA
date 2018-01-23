@@ -1,0 +1,8 @@
+*{ /* el menu se situa desde el pixel 0 0*/
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(IMG/madera-01.jpg);
+}

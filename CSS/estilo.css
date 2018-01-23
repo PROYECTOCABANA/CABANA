@@ -1,3 +1,4 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.3/flexslider.min.css";
 *{
 	margin: 0;
 	padding: 0;
@@ -87,7 +88,11 @@ ul , ol{
 	background-size: 100% 100%;
 
 }
-
+/*Galeria*/
+.milagro{
+	width: 80%;
+	height: 100%;
+}
 /*Pie de pagina*/
 .footer{
    width: 100%;
@@ -96,7 +101,7 @@ ul , ol{
 	 float: center;
    background-color: #8BC53E;
 	 z-index: 400;
-	 height:15%;
+	 height:16%;
 }
 
 .logi1{
@@ -128,7 +133,7 @@ ul , ol{
 }
 
 /*Responsive*/
-@media screen and (max-width:800px){
+@media screen and (max-width:1024px){
 
 	section#banner{
 	  display: none;

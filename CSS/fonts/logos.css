@@ -17,6 +17,9 @@
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
+  text-decoration-color: none;
+  text-decoration-line: none;
+  text-decoration: none;
   line-height: 1;
 }
 
@@ -28,12 +31,16 @@
   content: "\ea91";
   color: white;
   font-size: 30px;
+  text-decoration-color: none;
+  text-decoration-line: none;
   text-decoration: none;
 }
 .icon-instagram:before {
   content: "\ea92";
   color: white;
   font-size: 30px;
+  text-decoration-color: none;
+  text-decoration-line: none;
   text-decoration: none;
 }
 .icon-whatsapp:before {

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<! DOCTYPE html>
 <html>
 <head>
 	<title>Sitios Turisticos</title>
@@ -240,7 +240,7 @@
   </div>
 </div>
 <?PHP
-	include("../../pie.php")//incluir el pie de pagina
+	include("../pie.php")//incluir el pie de pagina
 ?>
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script src="../../JS/menu.js"></script>

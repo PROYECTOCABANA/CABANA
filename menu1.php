@@ -3,10 +3,10 @@
 			<a href="#" class="boton"><span class="icon-menu"></span><p color=White>Menu</p></a>
 		</div>
 		<ul class="nav">
+			  <img  id='log' src='CSS/IMG/logo-06.png'>
 				<li><a href="index.php">Inicio</li></a>
-				<li><a href="#">Nosotros</li></a>
-				<li><a href="#">Habitaciones</li></a>
-		<img  id='log' src='CSS/IMG/logo-06.png'>
+				<li><a href="Nosotros/nosotros.php">Nosotros</li></a>
+				<li><a href="Habitaciones/Habitaciones.php">Habitaciones</li></a>
 				<li class="submenu"><a href="#">Servicios
 				<ul class="hijos">
 					<li><a href="servicios/servicios.php">Comedor</a></li>
