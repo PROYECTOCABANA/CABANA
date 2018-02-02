@@ -19,7 +19,6 @@
 
 	display: table;
 	margin: auto;
-	color: #8A0808;
 	/*margin-top: 15px;*/
 	height: 50px;
 	-webkit-transition: margin-left .5s;
@@ -31,7 +30,7 @@ ul , ol{
 	list-style: none;
 }
 
-.nav li a:hover{
+#header .nav li a:hover{
 	background-color: #AEE861;
 	color: White;
 	-webkit-transition: color.3s;
@@ -164,7 +163,7 @@ ul , ol{
 
  .nav li a {
  	color: white;
-}
+  }
 
 	#header .nav li ul li{
 		display: block;
@@ -178,6 +177,7 @@ ul , ol{
 
  #header .nav li a{
 	 display: block;
+	 color: white;
  }
 
  #header .nav li:hover .hijos{

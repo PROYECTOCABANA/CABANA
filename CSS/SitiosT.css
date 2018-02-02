@@ -7,35 +7,152 @@ body{
     background-image: url(IMG/madera-01.jpg);
 }
 
-/* IMAGENES de sitios turisticos*/
-#banner1{
-    background: url(IMG/quindio.jpg) no-repeat center top;
-    background-size: cover;
-    min-height: 500px; /*altura de la imagen */
-}
-
-#banner2{
-    background: url(IMG/risaralda.jpg) no-repeat center top;
-    background-size: cover;
-    min-height: 500px; /*altura de la imagen */
-}
-
-#banner3{
-    background: url(IMG/caldas.jpg) no-repeat center top;
-    background-size: cover;
-    min-height: 500px; /*altura de la imagen */
-}
-
-/*tonalidad agua oscura a las imagenes*/
-.bg-color{
-    /*background-color: RGBA(0, 0, 0, 0.45);tonalidad oscura a la img */
-    min-height: 500px; /*debe ir acorde a la altura img*/
-}
-
 /*titulo quindio,risaralda,caldas*/
 .logo-name{
     font-family: 'Acme', sans-serif;
     font-size: 50px; /*tamaño letra titulo */
     margin-top: 30px; /* distancia del top pag*/
-    color: #8A0808; /*color amarillo */
+    color:white; /*color amarillo */
+}
+
+.logo-name1{
+    font-family: 'Acme', sans-serif;
+    font-size: 50px; /*tamaño letra titulo */
+    margin-top: 30px; /* distancia del top pag*/
+    color:white; /*color amarillo */
+}
+/* menú de navegación cuando la pantalla supera los 1000px */
+@media screen and (min-width:1000px){
+  .Elcarousel{
+    display: none;
+  }
+
+/* IMAGENES de sitios turisticos*/
+  #banner1{
+      background: url(IMG/quindio.jpg) no-repeat center top;
+      background-size: cover;
+      min-height: 500px; /*altura de la imagen */
+  }
+  #banner2{
+      background: url(IMG/risaralda.jpg) no-repeat center top;
+      background-size: cover;
+      min-height: 500px; /*altura de la imagen */
+  }
+
+  #banner3{
+      background: url(IMG/caldas.jpg) no-repeat center top;
+      background-size: cover;
+      min-height: 500px; /*altura de la imagen */
+  }
+  /*tonalidad agua oscura a las imagenes*/
+  .bg-color{
+      background-color: RGBA(0, 0, 0, 0.45);/*tonalidad oscura a la img */
+      min-height: 500px; /*debe ir acorde a la altura img*/
+  }
+  img#log{
+      float:left;
+      display: block;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-top: 250px;
+      -webkit-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
+  }
+  .contenedor img{
+    width: 100%;
+    height: 230px;
+    border-radius: 15px;
+    z-index: 1;
+    border: 3px solid white;
+  }
+
+  .overlay {
+    opacity: 0;
+    position: relative;
+    height: 230px !important;
+    width: 100% !important;
+    transition: .5s ease;
+    border-radius: 15px;
+    margin-top: -230px;
+    z-index: -10;
+  }
+
+  .contenedor img:hover ~  .overlay, .overlay:hover {
+    opacity: 1;
+    z-index: 100;
+  }
+
+  .text {
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
+
+  .text a{
+    color: white;
+    text-decoration: none;
+    align-content: center;
+    font-family: 'Acme', sans-serif;
+  }
+}
+
+/* menú de navegación si la pantalla es inferior a 1000px */
+@media screen and (max-width:1000px) {
+.s4, #banner1, #banner2, #banner3,.collage{
+  display: none !important;
+}
+
+/*tonalidad agua oscura a las imagenes*/
+.bg-color{
+    background-color: RGBA(0, 0, 0, 0.45);/*tonalidad oscura a la img */
+    min-height: 200px; /*debe ir acorde a la altura img*/
+}
+.titulos{
+  text-align: center;
+  background-color: grey;
+  /* max-height: 150px; */
+  border: 5px solid white;
+}
+.titulos h1{
+  font-size: -webkit-xxx-large;;
+  color: #8bc53e;
+  font-family: 'Acme', sans-serif;
+}
+
+#banner4{
+  background: linear-gradient(to top, rgba(0,0,0,.8), rgba(0,0,0,.8)), url(IMG/quindio.jpg) no-repeat center top;
+  background-size: cover;
+  background-position: center;
+}
+#banner5{
+    background: linear-gradient(to top, rgba(0,0,0,.8), rgba(0,0,0,.8)), url(IMG/risaralda.jpg) no-repeat center top;
+    background-size: cover;
+    background-position: center;
+}
+
+#banner6{
+    background:  linear-gradient(to top, rgba(0,0,0,.8), rgba(0,0,0,.8)), url(IMG/caldas.jpg) no-repeat center top;
+    background-size: cover;
+    background-position: center;
+}
+
+.collapsible{
+  margin: 40px !important;
+  border: 4px solid white!important;
+  font-family: 'Acme', sans-serif;
+}
+.collapsible img{
+  width: 100%;
+  border-radius: 25px;
+}
+.collapsible-body{
+  background-color: rgba(0,0,0,0.7)
+}
+.collapsible-header{
+  background-color: #9bb848 !important;
+}
 }

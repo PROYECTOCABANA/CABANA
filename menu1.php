@@ -7,13 +7,7 @@
 				<li><a href="index.php">Inicio</li></a>
 				<li><a href="Nosotros/nosotros.php">Nosotros</li></a>
 				<li><a href="Habitaciones/Habitaciones.php">Habitaciones</li></a>
-				<li class="submenu"><a href="#">Servicios
-				<ul class="hijos">
-					<li><a href="servicios/servicios.php">Comedor</a></li>
-					<li><a href="#">Piscina-Jacuzzi</a></li>
-					<li><a href="#">Areas comunes</a></li>
-				</ul>
-				</li></a>
+				<li><a href="servicios/servicios.php">Servicios</li></a>
 				<li class="submenu"><a href="#">Sitios tur&iacute;sticos
 				<ul class="hijos">
 					<li><a data-scroll title="quindi" href="SitiosT/SitiosT.php/#quindio"><span>Quindio</span></a></li>

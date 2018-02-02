@@ -39,27 +39,45 @@
 	?>
 <!--Galeriaa-->
 <section id='madera'>
-<center>
-	<br>
-<div class="milagro">
-<div class="flexslider">
-  <ul class="slides">
-    <li>
-      <img src="CSS\IMG\campestre\1.jpg.jpeg" />
-    </li>
-		<li>
-      <img src="CSS\IMG\campestre\2.jpeg" />
-    </li>
-		<li>
-      <img src="CSS\IMG\campestre\3.jpeg" />
-    </li>
-		<li>
-      <img src="CSS\IMG\campestre\4.jpg" />
-    </li>
-  </ul>
-</div>
-</div>
-</center>
+	<center>
+		<br>
+		<br>
+		<br>
+		<br>
+	<div class="milagro">
+	<div class="flexslider">
+		<ul class="slides">
+			<li>
+				<img src="CSS\IMG\campestre\1.jpeg"/>
+			</li>
+			<li>
+				<img src="CSS\IMG\campestre\2.jpeg" />
+			</li>
+			<li>
+				<img src="CSS\IMG\campestre\3.jpeg" />
+			</li>
+			<li>
+				<img src="CSS\IMG\campestre\4.jpeg" />
+			</li>
+			<li>
+				<img src="CSS\IMG\campestre\5.jpeg" />
+			</li>
+			<li>
+				<img src="CSS\IMG\campestre\6.jpeg" />
+			</li>
+			<li>
+				<img src="CSS\IMG\campestre\7.jpeg" />
+			</li>
+			<li>
+				<img src="CSS\IMG\campestre\8.jpeg" />
+			</li>
+			<li>
+				<img src="CSS\IMG\campestre\9.jpeg" />
+			</li>
+		</ul>
+	</div>
+	</div>
+	</center>
 	</section>
 		<?PHP
 			include("pie.php")//incluir el pie de pagina

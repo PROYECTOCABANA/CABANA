@@ -26,10 +26,30 @@
 
 .icon-mobile2:before {
   content: "\e959";
+  color: #441a0b;
+  font-size: 25px;
 }
 .icon-user:before {
   content: "\e971";
+  color: #441a0b;
+  font-size: 25px;
 }
 .icon-mail4:before {
   content: "\ea86";
+  color: #441a0b;
+  margin-right:10px;
+  font-size: 25px;
+}
+
+@media screen and (max-width:900px){
+
+  .icon-mobile2:before {
+    font-size: 15px;
+  }
+  .icon-user:before {
+    font-size: 15px;
+  }
+  .icon-mail4:before {
+    font-size: 15px;
+  }
 }

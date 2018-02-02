@@ -75,7 +75,7 @@ html[xmlns] .flexslider .slides {
 .flexslider {
   margin: 0 0 60px;
   background: #fff;
-  width: 70%;
+  width: 65%;
   border: 4px solid #fff;
   position: relative;
   zoom: 1;
@@ -265,6 +265,16 @@ html[xmlns] .flexslider .slides {
 /* ====================================================================================================================
  * RESPONSIVE
  * ====================================================================================================================*/
+@media screen and (max-width:1024px){
+
+.flexslider{
+  margin-top: auto;
+  width: 70%;
+}
+
+.flexslider {
+  width: 70%;
+}
 @media screen and (max-width: 860px) {
   .flex-direction-nav .flex-prev {
     opacity: 1;

@@ -102,7 +102,7 @@ ul , ol{
 	 float: center;
    background-color:#8BC53E;
 	 z-index: 400;
-	 height:15%;
+	 height:17%;
 }
 
 .logi1{
@@ -212,16 +212,13 @@ ul , ol{
 		box-sizing:border-box;
 	}
 
-	p{
-		color: White;
-	}
 	.menu-bar span{
 		float: right;
 		font-size: 30px;
 		color: white;
 	}
 
-	.fuentes{
+	.fuentes p{
 		color: white;
 		margin-left: 20px;
 	}

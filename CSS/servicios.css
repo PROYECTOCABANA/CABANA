@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+
+	background-image: url("IMG/madera-01.jpg");
+	background-position: center center;/*centrar el fondo*/
+	background-repeat: no-repeat;/*que el fondo no se repita*/
+	background-size: 100% 100%; /*fondo se acomode de acuerdo el tamaño de la pantalla*/
+	background-attachment: fixed;/*para que el fondo quede fijo*/
+}
+/* Center website */
+.main {
+    /*max-width: 1000px;
+    margin: auto;*/
+
+}
+
+h1 {
+    font-size: 50px;
+    word-break: break-all;
+    color: white;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+}
+
+h4{
+  text-align: center;
+  color: #8A0808;
+  font-family: 'Acme', sans-serif;
+  margin-top: 5px;
+  font-size: 20px;
+}
+}
+
+.fila {
+    margin: 10px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.fila,
+.fila > .column {
+    padding: 8px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after rows */
+.fila:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Content */
+.content {
+    background-color: white;
+    padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.myBtnContainer{
+  text-align: center;
+  width: 100%;
+  float: center;
+}
+.btn {
+  border: none;
+  float: center;
+  margin-left: 15px;
+  text-align: center;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+  font-size: 20px;
+  color: #8A0808;
+  font-family: 'Acme', sans-serif;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #8BC53E;
+  color: white;
+}

@@ -6,7 +6,7 @@
 	<!--imporatnte todas las paginas deben tenerlo-->
 	<link rel="stylesheet" href="../CSS/otromenu.css">
 	<link rel="stylesheet" type="text/css" href="../CSS/carga.css">
-<script src="../JS/carga.js"></script>
+	<script src="../JS/carga.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
 	<!--biblioteca Jquery-->
 	<script src="../JS/jquery-3.2.1.min.js"></script>
@@ -41,49 +41,41 @@
 	<iframe src="https://wego.here.com/directions/mix//Casa-campestre-la-cosecha,-km-2.4-v%C3%ADa-Armenia-pueblo-tapao,-036-Armenia:e-eyJuYW1lIjoiQ2FzYSBjYW1wZXN0cmUgbGEgY29zZWNoYSIsImFkZHJlc3MiOiJrbSAyLjQgdlx1MDBlZGEgQXJtZW5pYSAtIHB1ZWJsbyB0YXBhbywgQXJtZW5pYSIsImxhdGl0dWRlIjo0LjUxNDU3OTksImxvbmdpdHVkZSI6LTc1Ljc4NDcsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6OTEyMjU3NDM4ODc3MTAxfQ==?map=4.51458,-75.7847,15,normal&fb_locale=es_ES" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 <br>
-
 <!--informacion -->
-
 <div class="cuadro">
+	<p class="titulo" color="#8bc53e">Información del Contácto</p>
+	<div class="cuadro1">
+		<span class="icon-user"></span><p class="info">Rubiela Romero Barrero</p>
+		<br>
+		<span class="icon-mobile2"></span><p class="info">Tel: 315 699 9060</p>
+	</div>
+	<div class="cuadro2">
+		<span class="icon-user"></span><p class="info">Julio C. Santos Duarte</p>
+		<br>
+		<span class="icon-mobile2"></span><p class="info">Tel: 310 353 6520</p>
+	</div>
 	<br>
-	<h2><span class="titulo">Información de Contácto</span></h2>
+	<div class="cuadro3">
+		<span class="icon-mail4"></span><a class="info" href="mailto:santosduartejulio@hotmail.com">santosduartejulio@hotmail.com</a>
+		<br>
+		<br>
+		<span class="icon-mail4"></span><a class="info" href="mailto:ruby6817348@hotmail.com">ruby6817348@hotmail.com</a>
+		<br>
+		<br>
+		<span class="icon-mail4"></span><a class="info" href="mailto:casacampestrelacosecha@gmail.com">casacampestrelacosecha@gmail.com</a>
+	</div>
+</div>
+<br>
+<div class="cuadro0">
+	<p class="titulo" color="#8bc53e">Envianos un Mensaje</p>
 	<br>
-	<br>
-	<table align="center" cellpadding="10">
-		<tr>
-			<td><span class="icon-user"></span> Rubiela Romero Barrero<br></td>
-			<td><span class="icon-user"></span> Julio C. Santos Duarte <br> </td>
-		</tr>
-
-		<tr>
-			<td><span class="icon-mobile2"></span> Tel: 315 699 9060<br> </td>
-			<td><span class="icon-mobile2"></span> Tel: 310 353 6520<br> </td>
-		</tr>
-
-		<tr>
-			<td><span class="icon-mail4"></span> E: <a href="mailto:casacampestrelacosecha@gmail.com"> casacampestrelacosecha@gmail.com </a>
-				<br>
-			<span class="icon-mail4"></span> E: <a href="mailto:ruby6817348@hotmail.com"> ruby6817348@hotmail.com</a>
-			</td>
-
-			<td> <span class="icon-mail4"></span> E: <a href="mailto:santosduartejulio@hotmail.com"> santosduartejulio@hotmail.com</a>
-			</td>
-
-		</tr>
-
-	</table>
-	<br>
-	<br>
-	<h2><span class="titulo">Envianos un Mensaje</span></h2>
-	<br>
-	<br>
-		<form method="POST" action="enviar.php">
-			<input name="nombre" type="text" placeholder="Nombre" required="">
-			<input name="telefono" type="number" placeholder="Teléfono" required="">
-			<input name="correo" type="e-mail" placeholder="Correo Electrónico" required="">
-			<textarea name="mensaje" placeholder="Escribe tu mensaje" required=""></textarea>
-			<input type="submit" value="ENVIAR" class="enviar">
-		</form>
+	<form  method="post" action="correo.php">
+		<input type="text" name="nombre" placeholder="Nombre">
+		<input type="number" name="telefono" placeholder="Teléfono">
+		<input type="email" name="correo" placeholder="Correo Electrónico">
+		<textarea name="mensaje" placeholder="Escribe tu mensaje"></textarea>
+		<input type="submit" name="enviar" value="ENVIAR" class="enviar">
+	</form>
 </div>
 <br>
 <?PHP

@@ -41,13 +41,13 @@
     <ul class="slides">
       <li>
         <p class="tit">Habitación Triple</p>
-        <img src="../CSS/IMG/habitaciones/1.jpeg" />
+        <img src="../CSS/IMG/Habitaciones/1.jpeg" />
       </li>
       <li>
-        <img src="../CSS/IMG/habitaciones/3.jpeg" />
+        <img src="../CSS/IMG/Habitaciones/3.jpeg" />
       </li>
       <li>
-        <img src="../CSS/IMG/habitaciones/8.jpeg" />
+        <img src="../CSS/IMG/Habitaciones/8.jpeg" />
       </li>
     </ul>
   </div>
