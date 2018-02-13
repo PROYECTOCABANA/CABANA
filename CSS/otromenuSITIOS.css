@@ -3,22 +3,6 @@
 	padding: 0;
 }
 
-#banner{
-  height:85%;
-  width: 100%;
-  background-image: url(IMG/foto.jpg);
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-#galeria{
-  height: 100%;
-  width: 100%;
-  background-image: url(IMG/madera-01.jpg);
-  background-attachment: fixed;
-	background-size: cover;
-}
-
 img#logi{
 
 	float:left;
@@ -30,14 +14,7 @@ img#logi{
 	margin-right: 10px;
 	-webkit-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
 }
-.icono{
-	margin-top: 10px;
-  text-align: center;
-  color: White;
-  font-size: 30px;
-}
 
-/*menu*/
 #header{
 	position: fixed;
 	z-index:4;
@@ -52,6 +29,7 @@ img#logi{
 
 	display: table;
 	margin: auto;
+	font-color:#090935;
 	/*margin-top: 15px;*/
 	height: 50px;
 	-webkit-transition: margin-left .5s;
@@ -104,23 +82,23 @@ ul , ol{
 .nav li ul li a{
 
  	padding: 0px 15px;
-	margin-top: 10px;
  	font-family: 'Acme', sans-serif;
  	background-color: #8BC53E;
 	/*right: -140px;*/
 	top:0px;
 }
-
-/*Pie de pagina*/
+/*Habitación*/
+.tit{
+	font-family: 'Acme', sans-serif;
+	color: #8A0808;
+	font-size: 20px;
+}
 /*Pie de pagina*/
 .footer{
    width: 100%;
 	 text-align: center;
-	 text-decoration: none;
-	 float: center;
    background-color: #8BC53E;
-	 z-index: 400;
-	 height:16%;
+	 height:80px;
 }
 
 .logi1{
@@ -143,7 +121,6 @@ ul , ol{
 	width: 100%;
 }
 
-
 .fuentes{
 	color: white;
 	margin-right: 20px;
@@ -154,18 +131,14 @@ ul , ol{
 	display: none;
 }
 /*Responsive*/
-@media screen and (max-width:1070px){
-
-	/*FONDO DE MADERA*/
-
-
+@media screen and (max-width:1024px){
 
 	img#logi{
 		display: none;
 	}
 
 	#header .nav{
-		width: 80%;
+		width: 50%;
 		height: 100%;
 		left: -100%;
 		margin: 0;

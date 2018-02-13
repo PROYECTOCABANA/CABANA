@@ -45,22 +45,23 @@
 <!-- Portfolio Gallery Grid -->
 <div class="fila">
 <!--comedor -->
+<div id="imagenes">
   <div class="column comedor">
     <div class="content">
       <img src="../CSS/IMG/servicios/comedor1.jpg"  style="width:100%">
-      <h4>Cabaña</h4>
+      <h4 class="texto">Area de comedor</h4>
     </div>
   </div>
   <div class="column comedor">
     <div class="content">
     <img src="../CSS/IMG/servicios/comedor2.jpg"  style="width:100%">
-      <h4>Cocina-Comedor</h4>
+      <h4 class="texto">Cocina-Comedor</h4>
     </div>
   </div>
   <div class="column comedor">
     <div class="content">
     <img src="../CSS/IMG/servicios/comedor3.jpg"  style="width:100%">
-      <h4>Comedores</h4>
+      <h4 class="texto">Comedores</h4>
     </div>
   </div>
   <!--end comedor -->
@@ -68,19 +69,19 @@
   <div class="column piscina">
     <div class="content">
       <img src="../CSS/IMG/servicios/piscina4.jpg" style="width:100%">
-      <h4>Piscina</h4>
+      <h4 class="texto">Piscina</h4>
     </div>
   </div>
   <div class="column piscina">
     <div class="content">
     <img src="../CSS/IMG/servicios/jacuzi5.jpeg" style="width:88%">
-      <h4>Jacuzzi</h4>
+      <h4 class="texto">Jacuzzi</h4>
     </div>
   </div>
   <div class="column piscina">
     <div class="content">
     <img src="../CSS/IMG/servicios/piscina6.jpg" style="width:100%">
-      <h4>Piscina</h4>
+      <h4 class="texto">Piscina</h4>
     </div>
   </div>
   <!-- end piscina -->
@@ -88,22 +89,23 @@
   <div class="column areas">
     <div class="content">
       <img src="../CSS/IMG/servicios/car.jpeg" style="width:100%">
-      <h4>Un momento de diversi&oacute;n con el Jeep tradicional</h4>
+      <h4 class="texto">Jeep Tradicional</h4>
     </div>
   </div>
   <div class="column areas">
     <div class="content">
     <img src="../CSS/IMG/servicios/columpio.jpeg" style="width:100%">
-      <h4>Juegos Infantiless</h4>
+      <h4 class="texto">Juegos Infantiless</h4>
     </div>
   </div>
   <div class="column areas">
     <div class="content">
     <img src="../CSS/IMG/servicios/soccer.jpeg" style="width:100%">
-      <h4>Cancha de mini-f&uacute;tbol</h4>
+      <h4 class="texto">Cancha de mini-f&uacute;tbol</h4>
     </div>
   </div>
 <!-- END GRID -->
+</div>
 </div>
 
 <!-- END MAIN -->

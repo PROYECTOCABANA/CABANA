@@ -38,7 +38,7 @@
 	<br>
 <!--localización exacta del hotel, mediante google maps -->
 <div id="map" align="center">
-	<iframe src="https://wego.here.com/directions/mix//Casa-campestre-la-cosecha,-km-2.4-v%C3%ADa-Armenia-pueblo-tapao,-036-Armenia:e-eyJuYW1lIjoiQ2FzYSBjYW1wZXN0cmUgbGEgY29zZWNoYSIsImFkZHJlc3MiOiJrbSAyLjQgdlx1MDBlZGEgQXJtZW5pYSAtIHB1ZWJsbyB0YXBhbywgQXJtZW5pYSIsImxhdGl0dWRlIjo0LjUxNDU3OTksImxvbmdpdHVkZSI6LTc1Ljc4NDcsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6OTEyMjU3NDM4ODc3MTAxfQ==?map=4.51458,-75.7847,15,normal&fb_locale=es_ES" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3977.4369724060343!2d-75.73694488523843!3d4.514996396719416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e385f470773a7ab%3A0x55aa026f512393a9!2scasa+campestre+la+cosecha!5e0!3m2!1ses-419!2sco!4v1518010125762" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 <br>
 <!--informacion -->
@@ -56,12 +56,6 @@
 	</div>
 	<br>
 	<div class="cuadro3">
-		<span class="icon-mail4"></span><a class="info" href="mailto:santosduartejulio@hotmail.com">santosduartejulio@hotmail.com</a>
-		<br>
-		<br>
-		<span class="icon-mail4"></span><a class="info" href="mailto:ruby6817348@hotmail.com">ruby6817348@hotmail.com</a>
-		<br>
-		<br>
 		<span class="icon-mail4"></span><a class="info" href="mailto:casacampestrelacosecha@gmail.com">casacampestrelacosecha@gmail.com</a>
 	</div>
 </div>

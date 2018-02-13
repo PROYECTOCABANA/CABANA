@@ -15,16 +15,6 @@
   <link rel="shortcut icon" href="../CSS/IMG/colibri.png">
   <script src="../JS/jquery-3.2.1.min.js"></script>
   <!--Galeria-->
-  <script src="../JS/jquery.flexslider.js"></script>
-  <link rel="stylesheet" href="../CSS/flexslider/css/flexslider.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.3/jquery.flexslider-min.js"></script>
-  <script>
-	$(document).ready(function() {
-		$('.flexslider').flexslider({
-	animation: "slide"
-});
-});
-</script>
 </head>
 <body>
   <div id="contenedor_carga">
@@ -34,25 +24,51 @@
   <?php
   include("menuhabi.php")//incluir menu 2
   ?>
-  <center>
-  	<br>
-  <div class="milagro">
-  <div class="flexslider">
-    <ul class="slides">
-      <li>
-        <p class="tit">Habitación Triple</p>
-        <img src="../CSS/IMG/Habitaciones/1.jpeg" />
-      </li>
-      <li>
-        <img src="../CSS/IMG/Habitaciones/3.jpeg" />
-      </li>
-      <li>
-        <img src="../CSS/IMG/Habitaciones/8.jpeg" />
-      </li>
-    </ul>
+  <div class="contenedor">
+    <div id="imagen"></div>
+    <div id="des"><p class="info">Disponemos de seis (6) habitaciones con camas confortables
+      (Sencillas y Dobles) con vista al paisaje natural, bien dotada,
+      para hacer de su estadía agradable (Internet Wi-Fi,Televisor, Ventilador, Baño privado).</p></div>
   </div>
-  </div>
-  </center>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   		<?PHP
   			include("../pie.php")//incluir el pie de pagina
   		?>

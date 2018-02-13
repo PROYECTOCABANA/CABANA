@@ -6,3 +6,154 @@
 body{
     background-image: url(IMG/madera-01.jpg);
 }
+
+#imagen{
+  width: 55%;
+  height: 60%;
+  margin-top:10%;
+  margin-left: 15PX;
+  background-image: url(IMG/Habitaciones/1.jpeg);
+  background-size: cover;
+  background-size: 25 59;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  border: 1px solid white;
+  float: left;
+}
+
+#des{
+  width:42%;
+  height: 60%;
+  text-align: center;
+  margin-left: 15PX;
+  margin-top:10%;
+  background-color: white;
+  border-radius: 15px;
+  border: 1px solid white;
+  float: left;
+}
+
+.info{
+	text-align: center;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-top: 20%;
+	font-family: 'Lora', serif;
+  color: #8A0808;
+	font-size:20px;
+}
+@media screen and (max-width:1018px){
+
+  #imagen{
+    width: 90%;
+    height: 60%;
+    text-align: center;
+    float:center !important;
+  }
+
+  #des{
+    width:90%;
+    height: 35%;
+    margin-left: 15PX;
+    margin-top:4%;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid white;
+    float: center;
+  }
+
+  .info{
+  	text-align: center;
+    margin-top: 5%;
+  	font-family: 'Lora', serif;
+    color: #8A0808;
+  	font-size:20px;
+  }
+}
+@media screen and (max-width:642px){
+
+  #imagen{
+    width: 90%;
+    height: 60%;
+    text-align: center;
+    float:center !important;
+  }
+
+  #des{
+    width:90%;
+    height: 40%;
+    margin-left: 15PX;
+    margin-top:4%;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid white;
+    float: center;
+  }
+
+  .info{
+  	text-align: center;
+    margin-top: 5%;
+  	font-family: 'Lora', serif;
+    color: #8A0808;
+  	font-size:20px;
+  }
+}
+@media screen and (max-width:550px){
+
+  .info{
+  	text-align: center;
+    margin-top: 5%;
+  	font-family: 'Lora', serif;
+    color: #8A0808;
+  	font-size:17px;
+  }
+
+}
+
+@media screen and (max-width:424px){
+
+  .info{
+  	text-align: center;
+    margin-top: 5%;
+  	font-family: 'Lora', serif;
+    color: #8A0808;
+  	font-size:14px;
+  }
+}
+
+@media screen and (max-width:292px){
+
+  #des{
+    height: 45%;
+  }
+}
+
+@media screen and (max-width:259px){
+
+  #des{
+    height:50%;
+  }
+
+  .info{
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Lora', serif;
+    color: #8A0808;
+    font-size:13px;
+  }
+}
+@media screen and (max-width:216px){
+
+  #des{
+    height:50%;
+  }
+
+  .info{
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Lora', serif;
+    color: #8A0808;
+    font-size:12px;
+  }
+}

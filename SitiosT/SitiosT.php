@@ -4,7 +4,7 @@
 	<title>Sitios Turisticos</title>
 	<meta charset="utf-8"><meta/> <!-- Acepta las tildes-->
 	<!--imporatnte todas las paginas deben tenerlo-->
-	<link rel="stylesheet" href="../../CSS/otromenu.css">
+	<link rel="stylesheet" href="../../CSS/otromenuSITIOS.css">
 	<link rel="stylesheet" type="text/css" href="../../CSS/carga.css">
   <script src="../../JS/carga.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
@@ -470,6 +470,7 @@ $('.collapsible').collapsible();
       <!--end efecto overlay-->
   </div>
 </div>
+<br>
 <?PHP
 	include("../pie.php")//incluir el pie de pagina
 ?>

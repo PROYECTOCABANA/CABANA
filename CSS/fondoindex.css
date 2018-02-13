@@ -21,7 +21,9 @@ img#log{
 @media screen and (max-width:1024px){
 
 	section#banner{
-	  display: none;
+		background-size:cover;
+		background-position: center;
+		background-repeat: no-repeat;
 	}
 
 	img#log{

@@ -101,12 +101,6 @@ body{
   color: #2b0707;
 }
 
-@media screen and (max-width:904px){
-
-  .icono{
-    display: none;
-  }
-}
 
 @media screen and (max-width:904px){
 
@@ -128,12 +122,12 @@ body{
   }
 
   .parrafo{
-    font-size: 17px;
+    font-size: 16px;
   }
 
 }
 
-@media screen and (max-width:485px){
+@media screen and (max-width:480px){
 
   #des{
     height: 40%;
@@ -153,9 +147,34 @@ body{
   }
 
   .parrafo{
-    font-size: 17px;
+    font-size: 15px;
   }
 }
+
+@media screen and (max-width:487px){
+
+  #des{
+    height: 40%;
+  }
+  #mision{
+    height: 40%;
+  }
+  #vision{
+    height: 43%;
+  }
+  .icono{
+    display: none;
+  }
+
+  .titulo1{
+    font-size: 30px;
+  }
+
+  .parrafo{
+    font-size: 15px;
+  }
+}
+
 
 @media screen and (max-width:369px){
 
@@ -177,11 +196,36 @@ body{
   }
 
   .parrafo{
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
-@media screen and (max-width:281px){
+@media screen and (max-width:334px){
+
+  #des{
+    height: 40%;
+  }
+  #mision{
+    height: 40%;
+  }
+  #vision{
+    height: 45%;
+  }
+  .icono{
+    display: none;
+  }
+
+  .titulo1{
+    font-size: 20px;
+  }
+
+  .parrafo{
+    font-size: 13px;
+  }
+}
+
+
+@media screen and (max-width:280px){
 
   #des{
     height: 40%;
@@ -201,6 +245,6 @@ body{
   }
 
   .parrafo{
-    font-size: 13px;
+    font-size: 12px;
   }
 }
